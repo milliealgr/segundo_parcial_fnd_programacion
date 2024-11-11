@@ -15,7 +15,8 @@ int main() {
     cin >> n;
     SL();
 
-    vector <int> numeros(n);
+    int * numeros;
+    numeros = new int [n];
 
     for (int i = 0; i < n; i++) {
         cout << "Ingrese el numero " << (i + 1) << ": ";

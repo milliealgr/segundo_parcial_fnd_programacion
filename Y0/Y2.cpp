@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 using namespace std;
 //Ejercicio 2 – Suma de elementos: Pide al usuario que ingrese un arreglo y calcula la suma de todos los elementos del arreglo.
 
@@ -13,7 +12,9 @@ int main() {
     cin >> n;
     SaltoLinea();
 
-    vector <int> numeros(n);
+    int * numeros;
+    numeros = new int[n];
+    
 
     for (int i = 0; i < n; i++) {
         cout << "Ingrese el numero " << (i + 1) << ": ";
