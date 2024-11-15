@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1A\\Fnd programaci\u00F3n\\2do Parcial Fnd Programaci\u00F3n\\segundo_parcial_fnd_programacion\\ExamenCGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712210D3-76C4-455B-92D3-A8ECD87F7F8C}|ExamenCGPT\\ExamenCGPT.vcxproj|D:\\1A\\Fnd programaci\u00F3n\\2do Parcial Fnd Programaci\u00F3n\\segundo_parcial_fnd_programacion\\ExamenCGPT\\ExamenCGPT\\ExamenCGPT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{712210D3-76C4-455B-92D3-A8ECD87F7F8C}|ExamenCGPT\\ExamenCGPT.vcxproj|solutionrelative:ExamenCGPT\\ExamenCGPT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamenCGPT.cpp",
+              "DocumentMoniker": "D:\\1A\\Fnd programaci\u00F3n\\2do Parcial Fnd Programaci\u00F3n\\segundo_parcial_fnd_programacion\\ExamenCGPT\\ExamenCGPT\\ExamenCGPT.cpp",
+              "RelativeDocumentMoniker": "ExamenCGPT\\ExamenCGPT.cpp",
+              "ToolTip": "D:\\1A\\Fnd programaci\u00F3n\\2do Parcial Fnd Programaci\u00F3n\\segundo_parcial_fnd_programacion\\ExamenCGPT\\ExamenCGPT\\ExamenCGPT.cpp",
+              "RelativeToolTip": "ExamenCGPT\\ExamenCGPT.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T03:02:52.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

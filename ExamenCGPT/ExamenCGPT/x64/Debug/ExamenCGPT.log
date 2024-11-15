@@ -1,0 +1,3 @@
+﻿  ExamenCGPT.cpp
+D:\1A\Fnd programación\2do Parcial Fnd Programación\segundo_parcial_fnd_programacion\ExamenCGPT\ExamenCGPT\ExamenCGPT.cpp(34,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ExamenCGPT.vcxproj -> D:\1A\Fnd programación\2do Parcial Fnd Programación\segundo_parcial_fnd_programacion\ExamenCGPT\x64\Debug\ExamenCGPT.exe

@@ -15,6 +15,7 @@ int main(){
     cin >> n2;
     cout << "Ingrese la tercer calificacion: ";
     cin >> n3;
+    
     SL();
     Final(n1,n2,n3);
  
