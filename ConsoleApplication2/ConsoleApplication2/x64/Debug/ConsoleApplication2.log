@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\agaal\Desktop\segundo_parcial_fnd_programacion\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(15,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ConsoleApplication2.vcxproj -> C:\Users\agaal\Desktop\segundo_parcial_fnd_programacion\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
